@@ -1,4 +1,6 @@
 # RFID-Parking-System-Arduino-Code
+Find video here -> https://www.youtube.com/watch?v=FBBIDuJwHfM&t=13s
+
 Arduino code for RFID based parking system using two LCD's and a Keypad 
 
 This Project is about using RFID Reader , RFID card/tags as an identification to keep a track of users present in the parking area. Each user will have his/her own RFID card/tag which will hold the amount the user recharges after paying to the parking manager .This system is just like metro cards in some of the metropolitan cities.
